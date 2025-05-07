@@ -5,4 +5,6 @@ This repository contains projects on the following methods:
 2. Fuzzy Local Binary Pattern (FLBP)
 3. Haralick Text Feature Based Method
 
-All projects are implemented using the programming language c#
+All projects are implemented using the programming language c#.
+
+
