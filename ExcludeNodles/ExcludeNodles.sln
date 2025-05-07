@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35514.174
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcludeNodles", "ExcludeNodles\ExcludeNodles.csproj", "{3663DBC9-4D94-4DB5-9CC0-FBFCD25DE002}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcludeNodlesTest", "ExcludeNodlesTest\ExcludeNodlesTest.csproj", "{FBBEAFDA-472D-493C-A150-6B3228E2A991}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LBPFingers", "LBPFingers\LBPFingers.csproj", "{E620C04C-09CE-4B80-BCE4-3A4A72D15E06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3663DBC9-4D94-4DB5-9CC0-FBFCD25DE002}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3663DBC9-4D94-4DB5-9CC0-FBFCD25DE002}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3663DBC9-4D94-4DB5-9CC0-FBFCD25DE002}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3663DBC9-4D94-4DB5-9CC0-FBFCD25DE002}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBBEAFDA-472D-493C-A150-6B3228E2A991}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBBEAFDA-472D-493C-A150-6B3228E2A991}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBBEAFDA-472D-493C-A150-6B3228E2A991}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBBEAFDA-472D-493C-A150-6B3228E2A991}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E620C04C-09CE-4B80-BCE4-3A4A72D15E06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E620C04C-09CE-4B80-BCE4-3A4A72D15E06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E620C04C-09CE-4B80-BCE4-3A4A72D15E06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E620C04C-09CE-4B80-BCE4-3A4A72D15E06}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

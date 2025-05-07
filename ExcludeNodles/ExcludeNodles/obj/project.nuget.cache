@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6mnzzeWTQ1M=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lyami\\Аспирантура\\ExcludeNodles\\ExcludeNodles\\ExcludeNodles.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lyami\\.nuget\\packages\\microsoft.win32.systemevents\\9.0.0\\microsoft.win32.systemevents.9.0.0.nupkg.sha512",
+    "C:\\Users\\Lyami\\.nuget\\packages\\system.drawing.common\\9.0.0\\system.drawing.common.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
