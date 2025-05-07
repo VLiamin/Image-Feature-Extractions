@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Haralick", "Harralick\Haralick.csproj", "{92A3AEBE-8443-4865-8C14-721EAB547D7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HaralickTests", "HaralickTests\HaralickTests.csproj", "{920640E6-51F6-450A-868A-01F9CAE15146}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HaralickFingers", "HaralickFingers\HaralickFingers.csproj", "{65781015-50F8-4B14-AB7F-A1B7AA928CE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92A3AEBE-8443-4865-8C14-721EAB547D7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92A3AEBE-8443-4865-8C14-721EAB547D7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92A3AEBE-8443-4865-8C14-721EAB547D7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92A3AEBE-8443-4865-8C14-721EAB547D7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{920640E6-51F6-450A-868A-01F9CAE15146}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{920640E6-51F6-450A-868A-01F9CAE15146}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{920640E6-51F6-450A-868A-01F9CAE15146}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{920640E6-51F6-450A-868A-01F9CAE15146}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65781015-50F8-4B14-AB7F-A1B7AA928CE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65781015-50F8-4B14-AB7F-A1B7AA928CE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65781015-50F8-4B14-AB7F-A1B7AA928CE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65781015-50F8-4B14-AB7F-A1B7AA928CE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

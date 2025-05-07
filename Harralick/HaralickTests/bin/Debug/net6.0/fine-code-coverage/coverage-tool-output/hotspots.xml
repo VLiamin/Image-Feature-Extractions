@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Hotspots>
+  <Hotspot>
+    <Assembly>Haralick</Assembly>
+    <Class>Haralick.MatricesCounter</Class>
+    <MethodName>CountMatrices(...)</MethodName>
+    <ShortName />
+    <Line>6</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>120</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>Haralick</Assembly>
+    <Class>Haralick.ExcractRegions.ImageExtracter</Class>
+    <MethodName>ExtractImages(...)</MethodName>
+    <ShortName />
+    <Line>8</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>66</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>Haralick</Assembly>
+    <Class>Haralick.ExcractRegions.Squares</Class>
+    <MethodName>DevideOnSquares(...)</MethodName>
+    <ShortName />
+    <Line>17</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>52</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+</Hotspots>

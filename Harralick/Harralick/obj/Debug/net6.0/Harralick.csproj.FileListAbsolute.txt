@@ -1,0 +1,17 @@
+C:\Users\Lyami\source\repos\Harralick\Harralick\bin\Debug\net6.0\Harralick.exe
+C:\Users\Lyami\source\repos\Harralick\Harralick\bin\Debug\net6.0\Harralick.deps.json
+C:\Users\Lyami\source\repos\Harralick\Harralick\bin\Debug\net6.0\Harralick.runtimeconfig.json
+C:\Users\Lyami\source\repos\Harralick\Harralick\bin\Debug\net6.0\Harralick.dll
+C:\Users\Lyami\source\repos\Harralick\Harralick\bin\Debug\net6.0\Harralick.pdb
+C:\Users\Lyami\source\repos\Harralick\Harralick\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Lyami\source\repos\Harralick\Harralick\obj\Debug\net6.0\Harralick.csproj.AssemblyReference.cache
+C:\Users\Lyami\source\repos\Harralick\Harralick\obj\Debug\net6.0\Harralick.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lyami\source\repos\Harralick\Harralick\obj\Debug\net6.0\Harralick.AssemblyInfoInputs.cache
+C:\Users\Lyami\source\repos\Harralick\Harralick\obj\Debug\net6.0\Harralick.AssemblyInfo.cs
+C:\Users\Lyami\source\repos\Harralick\Harralick\obj\Debug\net6.0\Harralick.csproj.CoreCompileInputs.cache
+C:\Users\Lyami\source\repos\Harralick\Harralick\obj\Debug\net6.0\Harralick.csproj.Up2Date
+C:\Users\Lyami\source\repos\Harralick\Harralick\obj\Debug\net6.0\Harralick.dll
+C:\Users\Lyami\source\repos\Harralick\Harralick\obj\Debug\net6.0\refint\Harralick.dll
+C:\Users\Lyami\source\repos\Harralick\Harralick\obj\Debug\net6.0\Harralick.pdb
+C:\Users\Lyami\source\repos\Harralick\Harralick\obj\Debug\net6.0\Harralick.genruntimeconfig.cache
+C:\Users\Lyami\source\repos\Harralick\Harralick\obj\Debug\net6.0\ref\Harralick.dll
