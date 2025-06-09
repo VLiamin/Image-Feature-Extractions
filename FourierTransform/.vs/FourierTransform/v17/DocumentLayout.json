@@ -1,0 +1,161 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lyami\\\u0410\u0441\u043F\u0438\u0440\u0430\u043D\u0442\u0443\u0440\u0430\\Image-Feature-Extractions\\FourierTransform\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71F6A6FC-D961-4B70-A453-354762DB243C}|FourierTransform\\FourierTransformation.csproj|c:\\users\\lyami\\\u0430\u0441\u043F\u0438\u0440\u0430\u043D\u0442\u0443\u0440\u0430\\image-feature-extractions\\fouriertransform\\fouriertransform\\fouriertransformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71F6A6FC-D961-4B70-A453-354762DB243C}|FourierTransform\\FourierTransformation.csproj|solutionrelative:fouriertransform\\fouriertransformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71F6A6FC-D961-4B70-A453-354762DB243C}|FourierTransform\\FourierTransformation.csproj|c:\\users\\lyami\\\u0430\u0441\u043F\u0438\u0440\u0430\u043D\u0442\u0443\u0440\u0430\\image-feature-extractions\\fouriertransform\\fouriertransform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71F6A6FC-D961-4B70-A453-354762DB243C}|FourierTransform\\FourierTransformation.csproj|solutionrelative:fouriertransform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71F6A6FC-D961-4B70-A453-354762DB243C}|FourierTransform\\FourierTransformation.csproj|c:\\users\\lyami\\\u0430\u0441\u043F\u0438\u0440\u0430\u043D\u0442\u0443\u0440\u0430\\image-feature-extractions\\fouriertransform\\fouriertransform\\excractregions\\squaresnew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71F6A6FC-D961-4B70-A453-354762DB243C}|FourierTransform\\FourierTransformation.csproj|solutionrelative:fouriertransform\\excractregions\\squaresnew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71F6A6FC-D961-4B70-A453-354762DB243C}|FourierTransform\\FourierTransformation.csproj|c:\\users\\lyami\\\u0430\u0441\u043F\u0438\u0440\u0430\u043D\u0442\u0443\u0440\u0430\\image-feature-extractions\\fouriertransform\\fouriertransform\\excractregions\\squares.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71F6A6FC-D961-4B70-A453-354762DB243C}|FourierTransform\\FourierTransformation.csproj|solutionrelative:fouriertransform\\excractregions\\squares.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71F6A6FC-D961-4B70-A453-354762DB243C}|FourierTransform\\FourierTransformation.csproj|c:\\users\\lyami\\\u0430\u0441\u043F\u0438\u0440\u0430\u043D\u0442\u0443\u0440\u0430\\image-feature-extractions\\fouriertransform\\fouriertransform\\imagetransformation\\rgbtohcv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71F6A6FC-D961-4B70-A453-354762DB243C}|FourierTransform\\FourierTransformation.csproj|solutionrelative:fouriertransform\\imagetransformation\\rgbtohcv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71F6A6FC-D961-4B70-A453-354762DB243C}|FourierTransform\\FourierTransformation.csproj|c:\\users\\lyami\\\u0430\u0441\u043F\u0438\u0440\u0430\u043D\u0442\u0443\u0440\u0430\\image-feature-extractions\\fouriertransform\\fouriertransform\\imagetransformation\\rgbtolba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71F6A6FC-D961-4B70-A453-354762DB243C}|FourierTransform\\FourierTransformation.csproj|solutionrelative:fouriertransform\\imagetransformation\\rgbtolba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71F6A6FC-D961-4B70-A453-354762DB243C}|FourierTransform\\FourierTransformation.csproj|c:\\users\\lyami\\\u0430\u0441\u043F\u0438\u0440\u0430\u043D\u0442\u0443\u0440\u0430\\image-feature-extractions\\fouriertransform\\fouriertransform\\fouriertransformation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{71F6A6FC-D961-4B70-A453-354762DB243C}|FourierTransform\\FourierTransformation.csproj|solutionrelative:fouriertransform\\fouriertransformation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71F6A6FC-D961-4B70-A453-354762DB243C}|FourierTransform\\FourierTransformation.csproj|c:\\users\\lyami\\\u0430\u0441\u043F\u0438\u0440\u0430\u043D\u0442\u0443\u0440\u0430\\image-feature-extractions\\fouriertransform\\fouriertransform\\excractregions\\imageextracter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71F6A6FC-D961-4B70-A453-354762DB243C}|FourierTransform\\FourierTransformation.csproj|solutionrelative:fouriertransform\\excractregions\\imageextracter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RGBToLBA.cs",
+              "DocumentMoniker": "C:\\Users\\Lyami\\\u0410\u0441\u043F\u0438\u0440\u0430\u043D\u0442\u0443\u0440\u0430\\Image-Feature-Extractions\\FourierTransform\\FourierTransform\\ImageTransformation\\RGBToLBA.cs",
+              "RelativeDocumentMoniker": "FourierTransform\\ImageTransformation\\RGBToLBA.cs",
+              "ToolTip": "C:\\Users\\Lyami\\\u0410\u0441\u043F\u0438\u0440\u0430\u043D\u0442\u0443\u0440\u0430\\Image-Feature-Extractions\\FourierTransform\\FourierTransform\\ImageTransformation\\RGBToLBA.cs",
+              "RelativeToolTip": "FourierTransform\\ImageTransformation\\RGBToLBA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T14:46:20.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RGBToHCV.cs",
+              "DocumentMoniker": "C:\\Users\\Lyami\\\u0410\u0441\u043F\u0438\u0440\u0430\u043D\u0442\u0443\u0440\u0430\\Image-Feature-Extractions\\FourierTransform\\FourierTransform\\ImageTransformation\\RGBToHCV.cs",
+              "RelativeDocumentMoniker": "FourierTransform\\ImageTransformation\\RGBToHCV.cs",
+              "ToolTip": "C:\\Users\\Lyami\\\u0410\u0441\u043F\u0438\u0440\u0430\u043D\u0442\u0443\u0440\u0430\\Image-Feature-Extractions\\FourierTransform\\FourierTransform\\ImageTransformation\\RGBToHCV.cs",
+              "RelativeToolTip": "FourierTransform\\ImageTransformation\\RGBToHCV.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T14:46:17.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SquaresNew.cs",
+              "DocumentMoniker": "C:\\Users\\Lyami\\\u0410\u0441\u043F\u0438\u0440\u0430\u043D\u0442\u0443\u0440\u0430\\Image-Feature-Extractions\\FourierTransform\\FourierTransform\\ExcractRegions\\SquaresNew.cs",
+              "RelativeDocumentMoniker": "FourierTransform\\ExcractRegions\\SquaresNew.cs",
+              "ToolTip": "C:\\Users\\Lyami\\\u0410\u0441\u043F\u0438\u0440\u0430\u043D\u0442\u0443\u0440\u0430\\Image-Feature-Extractions\\FourierTransform\\FourierTransform\\ExcractRegions\\SquaresNew.cs",
+              "RelativeToolTip": "FourierTransform\\ExcractRegions\\SquaresNew.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAYwAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T14:45:45.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ImageExtracter.cs",
+              "DocumentMoniker": "C:\\Users\\Lyami\\\u0410\u0441\u043F\u0438\u0440\u0430\u043D\u0442\u0443\u0440\u0430\\Image-Feature-Extractions\\FourierTransform\\FourierTransform\\ExcractRegions\\ImageExtracter.cs",
+              "RelativeDocumentMoniker": "FourierTransform\\ExcractRegions\\ImageExtracter.cs",
+              "ToolTip": "C:\\Users\\Lyami\\\u0410\u0441\u043F\u0438\u0440\u0430\u043D\u0442\u0443\u0440\u0430\\Image-Feature-Extractions\\FourierTransform\\FourierTransform\\ExcractRegions\\ImageExtracter.cs",
+              "RelativeToolTip": "FourierTransform\\ExcractRegions\\ImageExtracter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T14:45:40.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Squares.cs",
+              "DocumentMoniker": "C:\\Users\\Lyami\\\u0410\u0441\u043F\u0438\u0440\u0430\u043D\u0442\u0443\u0440\u0430\\Image-Feature-Extractions\\FourierTransform\\FourierTransform\\ExcractRegions\\Squares.cs",
+              "RelativeDocumentMoniker": "FourierTransform\\ExcractRegions\\Squares.cs",
+              "ToolTip": "C:\\Users\\Lyami\\\u0410\u0441\u043F\u0438\u0440\u0430\u043D\u0442\u0443\u0440\u0430\\Image-Feature-Extractions\\FourierTransform\\FourierTransform\\ExcractRegions\\Squares.cs",
+              "RelativeToolTip": "FourierTransform\\ExcractRegions\\Squares.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAYwAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T14:45:34.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FourierTransformation.csproj",
+              "DocumentMoniker": "C:\\Users\\Lyami\\\u0410\u0441\u043F\u0438\u0440\u0430\u043D\u0442\u0443\u0440\u0430\\Image-Feature-Extractions\\FourierTransform\\FourierTransform\\FourierTransformation.csproj",
+              "RelativeDocumentMoniker": "FourierTransform\\FourierTransformation.csproj",
+              "ToolTip": "C:\\Users\\Lyami\\\u0410\u0441\u043F\u0438\u0440\u0430\u043D\u0442\u0443\u0440\u0430\\Image-Feature-Extractions\\FourierTransform\\FourierTransform\\FourierTransformation.csproj",
+              "RelativeToolTip": "FourierTransform\\FourierTransformation.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-07T23:15:01.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FourierTransformation.cs",
+              "DocumentMoniker": "C:\\Users\\Lyami\\\u0410\u0441\u043F\u0438\u0440\u0430\u043D\u0442\u0443\u0440\u0430\\Image-Feature-Extractions\\FourierTransform\\FourierTransform\\FourierTransformation.cs",
+              "RelativeDocumentMoniker": "FourierTransform\\FourierTransformation.cs",
+              "ToolTip": "C:\\Users\\Lyami\\\u0410\u0441\u043F\u0438\u0440\u0430\u043D\u0442\u0443\u0440\u0430\\Image-Feature-Extractions\\FourierTransform\\FourierTransform\\FourierTransformation.cs",
+              "RelativeToolTip": "FourierTransform\\FourierTransformation.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAawDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T23:12:45.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lyami\\\u0410\u0441\u043F\u0438\u0440\u0430\u043D\u0442\u0443\u0440\u0430\\Image-Feature-Extractions\\FourierTransform\\FourierTransform\\Program.cs",
+              "RelativeDocumentMoniker": "FourierTransform\\Program.cs",
+              "ToolTip": "C:\\Users\\Lyami\\\u0410\u0441\u043F\u0438\u0440\u0430\u043D\u0442\u0443\u0440\u0430\\Image-Feature-Extractions\\FourierTransform\\FourierTransform\\Program.cs",
+              "RelativeToolTip": "FourierTransform\\Program.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAvwDQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T23:12:22.899Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

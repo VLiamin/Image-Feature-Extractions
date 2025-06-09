@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lyami\\\u0410\u0441\u043F\u0438\u0440\u0430\u043D\u0442\u0443\u0440\u0430\\Diplom\\Density\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A44412BD-6E43-40AB-AF1B-D58137719095}|Density\\Density.csproj|c:\\users\\lyami\\\u0430\u0441\u043F\u0438\u0440\u0430\u043D\u0442\u0443\u0440\u0430\\diplom\\density\\density\\countdensity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A44412BD-6E43-40AB-AF1B-D58137719095}|Density\\Density.csproj|solutionrelative:density\\countdensity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A44412BD-6E43-40AB-AF1B-D58137719095}|Density\\Density.csproj|c:\\users\\lyami\\\u0430\u0441\u043F\u0438\u0440\u0430\u043D\u0442\u0443\u0440\u0430\\diplom\\density\\density\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A44412BD-6E43-40AB-AF1B-D58137719095}|Density\\Density.csproj|solutionrelative:density\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A44412BD-6E43-40AB-AF1B-D58137719095}|Density\\Density.csproj|c:\\users\\lyami\\\u0430\u0441\u043F\u0438\u0440\u0430\u043D\u0442\u0443\u0440\u0430\\diplom\\density\\density\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A44412BD-6E43-40AB-AF1B-D58137719095}|Density\\Density.csproj|solutionrelative:density\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A44412BD-6E43-40AB-AF1B-D58137719095}|Density\\Density.csproj|c:\\users\\lyami\\\u0430\u0441\u043F\u0438\u0440\u0430\u043D\u0442\u0443\u0440\u0430\\diplom\\density\\density\\excractregions\\squares.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A44412BD-6E43-40AB-AF1B-D58137719095}|Density\\Density.csproj|solutionrelative:density\\excractregions\\squares.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A44412BD-6E43-40AB-AF1B-D58137719095}|Density\\Density.csproj|c:\\users\\lyami\\\u0430\u0441\u043F\u0438\u0440\u0430\u043D\u0442\u0443\u0440\u0430\\diplom\\density\\density\\excractregions\\imageextracter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A44412BD-6E43-40AB-AF1B-D58137719095}|Density\\Density.csproj|solutionrelative:density\\excractregions\\imageextracter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Squares.cs",
+              "DocumentMoniker": "C:\\Users\\Lyami\\\u0410\u0441\u043F\u0438\u0440\u0430\u043D\u0442\u0443\u0440\u0430\\Diplom\\Density\\Density\\ExcractRegions\\Squares.cs",
+              "RelativeDocumentMoniker": "Density\\ExcractRegions\\Squares.cs",
+              "ToolTip": "C:\\Users\\Lyami\\\u0410\u0441\u043F\u0438\u0440\u0430\u043D\u0442\u0443\u0440\u0430\\Diplom\\Density\\Density\\ExcractRegions\\Squares.cs",
+              "RelativeToolTip": "Density\\ExcractRegions\\Squares.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T17:41:26.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ImageExtracter.cs",
+              "DocumentMoniker": "C:\\Users\\Lyami\\\u0410\u0441\u043F\u0438\u0440\u0430\u043D\u0442\u0443\u0440\u0430\\Diplom\\Density\\Density\\ExcractRegions\\ImageExtracter.cs",
+              "RelativeDocumentMoniker": "Density\\ExcractRegions\\ImageExtracter.cs",
+              "ToolTip": "C:\\Users\\Lyami\\\u0410\u0441\u043F\u0438\u0440\u0430\u043D\u0442\u0443\u0440\u0430\\Diplom\\Density\\Density\\ExcractRegions\\ImageExtracter.cs",
+              "RelativeToolTip": "Density\\ExcractRegions\\ImageExtracter.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T17:41:24.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Data.cs",
+              "DocumentMoniker": "C:\\Users\\Lyami\\\u0410\u0441\u043F\u0438\u0440\u0430\u043D\u0442\u0443\u0440\u0430\\Diplom\\Density\\Density\\Data.cs",
+              "RelativeDocumentMoniker": "Density\\Data.cs",
+              "ToolTip": "C:\\Users\\Lyami\\\u0410\u0441\u043F\u0438\u0440\u0430\u043D\u0442\u0443\u0440\u0430\\Diplom\\Density\\Density\\Data.cs",
+              "RelativeToolTip": "Density\\Data.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-07-19T14:29:15.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CountDensity.cs",
+              "DocumentMoniker": "C:\\Users\\Lyami\\\u0410\u0441\u043F\u0438\u0440\u0430\u043D\u0442\u0443\u0440\u0430\\Diplom\\Density\\Density\\CountDensity.cs",
+              "RelativeDocumentMoniker": "Density\\CountDensity.cs",
+              "ToolTip": "C:\\Users\\Lyami\\\u0410\u0441\u043F\u0438\u0440\u0430\u043D\u0442\u0443\u0440\u0430\\Diplom\\Density\\Density\\CountDensity.cs",
+              "RelativeToolTip": "Density\\CountDensity.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAYwHcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-04-26T21:47:00.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lyami\\\u0410\u0441\u043F\u0438\u0440\u0430\u043D\u0442\u0443\u0440\u0430\\Diplom\\Density\\Density\\Program.cs",
+              "RelativeDocumentMoniker": "Density\\Program.cs",
+              "ToolTip": "C:\\Users\\Lyami\\\u0410\u0441\u043F\u0438\u0440\u0430\u043D\u0442\u0443\u0440\u0430\\Diplom\\Density\\Density\\Program.cs",
+              "RelativeToolTip": "Density\\Program.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAowFgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-04-26T20:34:46.026Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

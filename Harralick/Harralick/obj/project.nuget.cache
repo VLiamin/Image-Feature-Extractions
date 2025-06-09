@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "svHUVLtHUMs=",
+  "dgSpecHash": "A8bUm4GZqc0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lyami\\Аспирантура\\Harralick\\Harralick\\Haralick.csproj",
+  "projectFilePath": "C:\\Users\\Lyami\\Аспирантура\\Image-Feature-Extractions\\Harralick\\Harralick\\Haralick.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lyami\\.nuget\\packages\\aspose.svg\\25.3.0\\aspose.svg.25.3.0.nupkg.sha512",
     "C:\\Users\\Lyami\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",

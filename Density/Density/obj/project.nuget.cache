@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "u4X1CjmLzPE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lyami\\Аспирантура\\Diplom\\Density\\Density\\Density.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lyami\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512",
+    "C:\\Users\\Lyami\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\Lyami\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

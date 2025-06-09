@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ax0pj9lun40=",
+  "dgSpecHash": "/6t0ahVn9BI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lyami\\Аспирантура\\Harralick\\HaralickTests\\HaralickTests.csproj",
+  "projectFilePath": "C:\\Users\\Lyami\\Аспирантура\\Image-Feature-Extractions\\Harralick\\HaralickTests\\HaralickTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lyami\\.nuget\\packages\\aspose.svg\\25.3.0\\aspose.svg.25.3.0.nupkg.sha512",
     "C:\\Users\\Lyami\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",

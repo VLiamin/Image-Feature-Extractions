@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lyami\\Аспирантура\\Harralick\\HaralickFingers\\HaralickFingers.csproj": {}
+    "C:\\Users\\Lyami\\Аспирантура\\Image-Feature-Extractions\\Harralick\\HaralickFingers\\HaralickFingers.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lyami\\Аспирантура\\Harralick\\HaralickFingers\\HaralickFingers.csproj": {
+    "C:\\Users\\Lyami\\Аспирантура\\Image-Feature-Extractions\\Harralick\\HaralickFingers\\HaralickFingers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lyami\\Аспирантура\\Harralick\\HaralickFingers\\HaralickFingers.csproj",
+        "projectUniqueName": "C:\\Users\\Lyami\\Аспирантура\\Image-Feature-Extractions\\Harralick\\HaralickFingers\\HaralickFingers.csproj",
         "projectName": "HaralickFingers",
-        "projectPath": "C:\\Users\\Lyami\\Аспирантура\\Harralick\\HaralickFingers\\HaralickFingers.csproj",
+        "projectPath": "C:\\Users\\Lyami\\Аспирантура\\Image-Feature-Extractions\\Harralick\\HaralickFingers\\HaralickFingers.csproj",
         "packagesPath": "C:\\Users\\Lyami\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lyami\\Аспирантура\\Harralick\\HaralickFingers\\obj\\",
+        "outputPath": "C:\\Users\\Lyami\\Аспирантура\\Image-Feature-Extractions\\Harralick\\HaralickFingers\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
