@@ -9,4 +9,5 @@ This repository contains projects on the following methods:
 
 All projects are implemented using the programming language C#.
 
+If you have any questions, you can write letter to this email: LyaminVA@yandex.ru
 
