@@ -1,7 +1,5 @@
-﻿using System;
-using System.Drawing;
+﻿using System.Drawing;
 using Haralick.ExcractRegions;
-using Haralick.ImageTransformation;
 using Sharpness;
 
 namespace Haralick
@@ -26,13 +24,13 @@ namespace Haralick
             List<Bitmap> labels = fileLabelPaths.Select(f => new Bitmap(f)).ToList();
             List<Bitmap> images = fileImagePaths.Select(f => new Bitmap(f)).ToList();
 
-/*            SharpnessByLaplacian sharpnessByLalpacian = new();
+            /*            SharpnessByLaplacian sharpnessByLalpacian = new();
 
-            for (int i = 0; i < images.Count; i++)
-            {
-                var laplacian = sharpnessByLalpacian.MakeLaplacian(images[i]);
-                images[i] = sharpnessByLalpacian.MakeSharpnessByLapalacian(images[i], laplacian);
-            }*/
+                        for (int i = 0; i < images.Count; i++)
+                        {
+                            var laplacian = sharpnessByLalpacian.MakeLaplacian(images[i]);
+                            images[i] = sharpnessByLalpacian.MakeSharpnessByLapalacian(images[i], laplacian);
+                        }*/
 
             IncreaseTreble increaseTreble = new IncreaseTreble();
 
@@ -40,7 +38,7 @@ namespace Haralick
             {
                 images[i] = increaseTreble.MakeIncreaseTreble(images[i], 1.5);
             }
-            
+
 
             //return;
             SquaresNew squares = new SquaresNew(32);
@@ -58,7 +56,7 @@ namespace Haralick
                 else
                 {
                     normalsAll.AddRange(places.normals);
-                }                
+                }
             }
 
             /*            foreach (var image in imagesRight)
@@ -89,33 +87,33 @@ namespace Haralick
             List<(double moment, double contr, double corr, double entr, double gom)> result = new();
             List<bool> isNodular = new();
 
-          //  using (StreamWriter writer = new StreamWriter("DataHaralick.txt", false))
-          //  {
+            //  using (StreamWriter writer = new StreamWriter("DataHaralick.txt", false))
+            //  {
 
-                    foreach (var normaL in normalsAll)
-                    {
-                        var normaLResult = Program.CountStatistics(normaL);
-                        result.Add((
-                            normaLResult.averageSecondMoment,
-                            normaLResult.averageContrast,
-                            normaLResult.averageCorrelation,
-                            normaLResult.averageEntropy,
-                            normaLResult.gomogeneity));
-                        isNodular.Add(false);
-                    }
+            foreach (var normaL in normalsAll)
+            {
+                var normaLResult = Program.CountStatistics(normaL);
+                result.Add((
+                    normaLResult.averageSecondMoment,
+                    normaLResult.averageContrast,
+                    normaLResult.averageCorrelation,
+                    normaLResult.averageEntropy,
+                    normaLResult.gomogeneity));
+                isNodular.Add(false);
+            }
 
-                    foreach (var nodular in nodularsAll)
-                    {
-                        var nodularResult = Program.CountStatistics(nodular);
-                        result.Add((
-                            nodularResult.averageSecondMoment,
-                            nodularResult.averageContrast,
-                            nodularResult.averageCorrelation,
-                            nodularResult.averageEntropy,
-                            nodularResult.gomogeneity));
-                        isNodular.Add(true);
-                    }
-         //   }
+            foreach (var nodular in nodularsAll)
+            {
+                var nodularResult = Program.CountStatistics(nodular);
+                result.Add((
+                    nodularResult.averageSecondMoment,
+                    nodularResult.averageContrast,
+                    nodularResult.averageCorrelation,
+                    nodularResult.averageEntropy,
+                    nodularResult.gomogeneity));
+                isNodular.Add(true);
+            }
+            //   }
 
             using (StreamWriter writer = new StreamWriter("IsNodularData.txt", false))
             {

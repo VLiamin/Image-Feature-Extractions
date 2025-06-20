@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lyami\\\u0410\u0441\u043F\u0438\u0440\u0430\u043D\u0442\u0443\u0440\u0430\\WaveletTransform\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB4D8866-4E91-4F5A-90A2-3479556455EE}|WaveletTransform\\WaveletTransform.csproj|c:\\users\\lyami\\\u0430\u0441\u043F\u0438\u0440\u0430\u043D\u0442\u0443\u0440\u0430\\wavelettransform\\wavelettransform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB4D8866-4E91-4F5A-90A2-3479556455EE}|WaveletTransform\\WaveletTransform.csproj|solutionrelative:wavelettransform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB4D8866-4E91-4F5A-90A2-3479556455EE}|WaveletTransform\\WaveletTransform.csproj|c:\\users\\lyami\\\u0430\u0441\u043F\u0438\u0440\u0430\u043D\u0442\u0443\u0440\u0430\\wavelettransform\\wavelettransform\\excractregions\\squaresnew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB4D8866-4E91-4F5A-90A2-3479556455EE}|WaveletTransform\\WaveletTransform.csproj|solutionrelative:wavelettransform\\excractregions\\squaresnew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB4D8866-4E91-4F5A-90A2-3479556455EE}|WaveletTransform\\WaveletTransform.csproj|c:\\users\\lyami\\\u0430\u0441\u043F\u0438\u0440\u0430\u043D\u0442\u0443\u0440\u0430\\wavelettransform\\wavelettransform\\haarwavelet2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB4D8866-4E91-4F5A-90A2-3479556455EE}|WaveletTransform\\WaveletTransform.csproj|solutionrelative:wavelettransform\\haarwavelet2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lyami\\Downloads\\cucumber-report_090625.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB4D8866-4E91-4F5A-90A2-3479556455EE}|WaveletTransform\\WaveletTransform.csproj|c:\\users\\lyami\\\u0430\u0441\u043F\u0438\u0440\u0430\u043D\u0442\u0443\u0440\u0430\\wavelettransform\\wavelettransform\\haarwavelet2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB4D8866-4E91-4F5A-90A2-3479556455EE}|WaveletTransform\\WaveletTransform.csproj|solutionrelative:wavelettransform\\haarwavelet2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB4D8866-4E91-4F5A-90A2-3479556455EE}|WaveletTransform\\WaveletTransform.csproj|c:\\users\\lyami\\\u0430\u0441\u043F\u0438\u0440\u0430\u043D\u0442\u0443\u0440\u0430\\wavelettransform\\wavelettransform\\excractregions\\imageextracter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB4D8866-4E91-4F5A-90A2-3479556455EE}|WaveletTransform\\WaveletTransform.csproj|solutionrelative:wavelettransform\\excractregions\\imageextracter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB4D8866-4E91-4F5A-90A2-3479556455EE}|WaveletTransform\\WaveletTransform.csproj|c:\\users\\lyami\\\u0430\u0441\u043F\u0438\u0440\u0430\u043D\u0442\u0443\u0440\u0430\\wavelettransform\\wavelettransform\\excractregions\\squares.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB4D8866-4E91-4F5A-90A2-3479556455EE}|WaveletTransform\\WaveletTransform.csproj|solutionrelative:wavelettransform\\excractregions\\squares.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "cucumber-report_090625.json",
+              "DocumentMoniker": "C:\\Users\\Lyami\\Downloads\\cucumber-report_090625.json",
+              "RelativeDocumentMoniker": "..\\..\\Downloads\\cucumber-report_090625.json",
+              "ToolTip": "C:\\Users\\Lyami\\Downloads\\cucumber-report_090625.json",
+              "RelativeToolTip": "..\\..\\Downloads\\cucumber-report_090625.json",
+              "ViewState": "AgIAABslAAAAAAAAAECkPQAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-09T15:16:02.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SquaresNew.cs",
+              "DocumentMoniker": "C:\\Users\\Lyami\\\u0410\u0441\u043F\u0438\u0440\u0430\u043D\u0442\u0443\u0440\u0430\\WaveletTransform\\WaveletTransform\\ExcractRegions\\SquaresNew.cs",
+              "RelativeDocumentMoniker": "WaveletTransform\\ExcractRegions\\SquaresNew.cs",
+              "ToolTip": "C:\\Users\\Lyami\\\u0410\u0441\u043F\u0438\u0440\u0430\u043D\u0442\u0443\u0440\u0430\\WaveletTransform\\WaveletTransform\\ExcractRegions\\SquaresNew.cs",
+              "RelativeToolTip": "WaveletTransform\\ExcractRegions\\SquaresNew.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAYwHEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T11:19:46.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Squares.cs",
+              "DocumentMoniker": "C:\\Users\\Lyami\\\u0410\u0441\u043F\u0438\u0440\u0430\u043D\u0442\u0443\u0440\u0430\\WaveletTransform\\WaveletTransform\\ExcractRegions\\Squares.cs",
+              "RelativeDocumentMoniker": "WaveletTransform\\ExcractRegions\\Squares.cs",
+              "ToolTip": "C:\\Users\\Lyami\\\u0410\u0441\u043F\u0438\u0440\u0430\u043D\u0442\u0443\u0440\u0430\\WaveletTransform\\WaveletTransform\\ExcractRegions\\Squares.cs",
+              "RelativeToolTip": "WaveletTransform\\ExcractRegions\\Squares.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T11:19:43.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ImageExtracter.cs",
+              "DocumentMoniker": "C:\\Users\\Lyami\\\u0410\u0441\u043F\u0438\u0440\u0430\u043D\u0442\u0443\u0440\u0430\\WaveletTransform\\WaveletTransform\\ExcractRegions\\ImageExtracter.cs",
+              "RelativeDocumentMoniker": "WaveletTransform\\ExcractRegions\\ImageExtracter.cs",
+              "ToolTip": "C:\\Users\\Lyami\\\u0410\u0441\u043F\u0438\u0440\u0430\u043D\u0442\u0443\u0440\u0430\\WaveletTransform\\WaveletTransform\\ExcractRegions\\ImageExtracter.cs",
+              "RelativeToolTip": "WaveletTransform\\ExcractRegions\\ImageExtracter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T11:19:33.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HaarWavelet2.cs",
+              "DocumentMoniker": "C:\\Users\\Lyami\\\u0410\u0441\u043F\u0438\u0440\u0430\u043D\u0442\u0443\u0440\u0430\\WaveletTransform\\WaveletTransform\\HaarWavelet2.cs",
+              "RelativeDocumentMoniker": "WaveletTransform\\HaarWavelet2.cs",
+              "ToolTip": "C:\\Users\\Lyami\\\u0410\u0441\u043F\u0438\u0440\u0430\u043D\u0442\u0443\u0440\u0430\\WaveletTransform\\WaveletTransform\\HaarWavelet2.cs",
+              "RelativeToolTip": "WaveletTransform\\HaarWavelet2.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAUwC4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T10:07:54.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HaarWavelet2D.cs",
+              "DocumentMoniker": "C:\\Users\\Lyami\\\u0410\u0441\u043F\u0438\u0440\u0430\u043D\u0442\u0443\u0440\u0430\\WaveletTransform\\WaveletTransform\\HaarWavelet2D.cs",
+              "RelativeDocumentMoniker": "WaveletTransform\\HaarWavelet2D.cs",
+              "ToolTip": "C:\\Users\\Lyami\\\u0410\u0441\u043F\u0438\u0440\u0430\u043D\u0442\u0443\u0440\u0430\\WaveletTransform\\WaveletTransform\\HaarWavelet2D.cs",
+              "RelativeToolTip": "WaveletTransform\\HaarWavelet2D.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T09:13:08.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lyami\\\u0410\u0441\u043F\u0438\u0440\u0430\u043D\u0442\u0443\u0440\u0430\\WaveletTransform\\WaveletTransform\\Program.cs",
+              "RelativeDocumentMoniker": "WaveletTransform\\Program.cs",
+              "ToolTip": "C:\\Users\\Lyami\\\u0410\u0441\u043F\u0438\u0440\u0430\u043D\u0442\u0443\u0440\u0430\\WaveletTransform\\WaveletTransform\\Program.cs",
+              "RelativeToolTip": "WaveletTransform\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T08:32:23.436Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

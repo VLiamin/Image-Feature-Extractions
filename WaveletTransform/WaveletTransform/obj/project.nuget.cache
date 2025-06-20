@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6S8zmsORD8k=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lyami\\Аспирантура\\WaveletTransform\\WaveletTransform\\WaveletTransform.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lyami\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\Lyami\\.nuget\\packages\\system.drawing.common\\8.0.16\\system.drawing.common.8.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
