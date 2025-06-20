@@ -5,7 +5,8 @@ This repository contains projects on the following methods:
 2. Fuzzy Local Binary Pattern (FLBP)
 3. Haralick Text Feature Based Method
 4. Local Density Function
-5. fast Fourier transform (FFT)
+5. Fast Fourier transform (FFT)
+6. Wavelet Transform
 
 All projects are implemented using the programming language C#.
 
